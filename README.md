@@ -13,11 +13,10 @@
 
 ## Level 3
 
-- htmlentities
-- urlencode
+- %0A (LF = linefeed)
 
 ```html
-
+%0A<svg/onload=alert()>
 ```
 
 
