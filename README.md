@@ -13,7 +13,21 @@
 
 ## Level 3
 
+- htmlentities
+- urlencode
+
+```html
+
+```
+
+
 ## Level 4
+
+- Inline html
+- 
+```html
+x' onerror=javascript:alert()//
+```
 
 ## Level 5
 
