@@ -31,6 +31,12 @@ x' onerror=javascript:alert()//
 
 ## Level 5
 
+- param reflected in form post field (action)
+
+```html
+XSS&action=javascript:alert(1337)
+``
+
 ## Level 6
 
 ## Level 7
