@@ -24,7 +24,7 @@
 ## Level 4
 
 - Inline html
-- 
+
 ```html
 x' onerror=javascript:alert()//
 ```
