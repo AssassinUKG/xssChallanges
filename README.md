@@ -56,5 +56,10 @@ XSS&action=javascript:alert(1337)
 ## Level 8
 
 ## Level 9
+- Escape the html tag with '</p>'
+
+```
+</p><svg/onload=alert()>
+```
 
 ## Level 10
