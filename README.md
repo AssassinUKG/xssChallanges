@@ -69,4 +69,5 @@ XSS&action=javascript:alert(1337)
 ```html
 ');alert`1`;//
 ');/**/onerror=alert`1`//
+');window[`alert`]`xss`//;
 ```
